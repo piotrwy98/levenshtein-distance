@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LevenshteinDistance": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\st\\Semestr III\\Przetwarzanie Języka Naturalnego (NLP)\\LevenshteinDistance\\przyklad.txt\""
+    }
+  }
+}
